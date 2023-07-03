@@ -1,0 +1,27 @@
+import { ImageSourcePropType } from 'react-native';
+
+export const images: { [key: string]: ImageSourcePropType } = {
+  avatar_1: require('./avatar_1.jpg'),
+  avatar_2: require('./avatar_2.jpg'),
+  avatar_3: require('./avatar_3.jpg'),
+  avatar_4: require('./avatar_4.jpg'),
+  avatar_5: require('./avatar_5.jpg'),
+  avatar_6: require('./avatar_6.jpg'),
+  avatar_7: require('./avatar_7.jpg'),
+  avatar_8: require('./avatar_8.jpg'),
+  avatar_9: require('./avatar_9.jpg'),
+  avatar_10: require('./avatar_10.jpg'),
+  construction_1: require('./construction_1.png'),
+  construction_2: require('./construction_2.png'),
+  construction_3: require('./construction_3.png'),
+  construction_4: require('./construction_4.png'),
+  passenger_1: require('./passenger_1.png'),
+  passenger_2: require('./passenger_2.png'),
+  passenger_3: require('./passenger_3.png'),
+  truck_1: require('./truck_1.png'),
+  truck_2: require('./truck_2.png'),
+  truck_3: require('./truck_3.png'),
+  truck_4: require('./truck_4.png'),
+  truck_pin: require('./truck_pin.png'),
+  construction_pin: require('./construction_pin.png'),
+};

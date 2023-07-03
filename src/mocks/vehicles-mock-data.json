@@ -1,0 +1,254 @@
+{
+  "vehiclesMockData": [
+    {
+      "title": "1",
+      "driver": {
+        "firstName": "Jason",
+        "lastName": "Wells",
+        "phoneNumber": "+972 053-3791075",
+        "avatar": "avatar_1"
+      },
+      "picture": "construction_1",
+      "category": "construction",
+      "current_location": {
+        "latitude": 32.80172907590924,
+        "longitude": 35.035272905152446
+      },
+      "route": {
+        "departure_point": {
+          "latitude": 32.810427582074716,
+          "longitude": 35.040238076170645
+        },
+        "destination_point": {
+          "latitude": 32.81822031829928,
+          "longitude": 34.99932028127368
+        }
+      }
+    },
+    {
+      "title": "2",
+      "driver": {
+        "firstName": "Ervin",
+        "lastName": "Howell",
+        "phoneNumber": "+972 53-0000000",
+        "avatar": "avatar_2"
+      },
+      "picture": "truck_1",
+      "category": "truck",
+      "current_location": {
+        "latitude": 32.81972851109711,
+        "longitude": 34.99471403747172
+      },
+      "route": {
+        "departure_point": {
+          "latitude": 32.803136984355646,
+          "longitude": 35.011164906112285
+        },
+        "destination_point": {
+          "latitude": 32.821236678079906,
+          "longitude": 34.9932185040325
+        }
+      }
+    },
+    {
+      "title": "3",
+      "driver": {
+        "firstName": "Tristan",
+        "lastName": "Lawson",
+        "phoneNumber": "+972 53-0000000",
+        "avatar": "avatar_3"
+      },
+      "picture": "truck_2",
+      "category": "truck",
+      "current_location": {
+        "latitude": 32.80791365059545,
+        "longitude": 34.98621940602901
+      },
+      "route": {
+        "departure_point": {
+          "latitude": 32.83365294628655,
+          "longitude": 34.98580065738692
+        },
+        "destination_point": {
+          "latitude": 32.80399177521557,
+          "longitude": 34.98711672609254
+        }
+      }
+    },
+    {
+      "title": "4",
+      "driver": {
+        "firstName": "Patricia",
+        "lastName": "Lebsack",
+        "phoneNumber": "+972 53-0000000",
+        "avatar": "avatar_4"
+      },
+      "picture": "construction_2",
+      "category": "construction",
+      "current_location": {
+        "latitude": 32.79874186569015,
+        "longitude": 34.961766287601876
+      },
+      "route": {
+        "departure_point": {
+          "latitude": 32.82448838998028,
+          "longitude": 34.958477845841124
+        },
+        "destination_point": {
+          "latitude": 32.79001102428024,
+          "longitude": 34.965281859930954
+        }
+      }
+    },
+    {
+      "title": "5",
+      "driver": {
+        "firstName": "Chelsey",
+        "lastName": "Dietrich",
+        "phoneNumber": "+972 53-0000000",
+        "avatar": "avatar_5"
+      },
+      "picture": "truck_3",
+      "category": "truck",
+      "current_location": {
+        "latitude": 32.81376957690925,
+        "longitude": 34.98078231029301
+      },
+      "route": {
+        "departure_point": {
+          "latitude": 32.82039677451888,
+          "longitude": 34.974253777564314
+        },
+        "destination_point": {
+          "latitude": 32.806551858807396,
+          "longitude": 34.98660884977668
+        }
+      }
+    },
+    {
+      "title": "6",
+      "driver": {
+        "firstName": "Dennis",
+        "lastName": "Schulist",
+        "phoneNumber": "+972 53-0000000",
+        "avatar": "avatar_6"
+      },
+      "picture": "passenger_1",
+      "category": "passenger",
+      "current_location": {
+        "latitude": 32.79107711133079,
+        "longitude": 34.99941317044851
+      },
+      "route": {
+        "departure_point": {
+          "latitude": 32.795028933510004,
+          "longitude": 34.99632915022789
+        },
+        "destination_point": {
+          "latitude": 32.78928083771737,
+          "longitude": 35.000623594098506
+        }
+      }
+    },
+    {
+      "title": "7",
+      "driver": {
+        "firstName": "Christopher",
+        "lastName": "Holmes",
+        "phoneNumber": "+972 53-0000000",
+        "avatar": "avatar_7"
+      },
+      "picture": "passenger_2",
+      "category": "passenger",
+      "current_location": {
+        "latitude": 32.82025571033489,
+        "longitude": 34.95878161674711
+      },
+      "route": {
+        "departure_point": {
+          "latitude": 32.81556949047505,
+          "longitude": 34.96708107138321
+        },
+        "destination_point": {
+          "latitude": 32.82178140294558,
+          "longitude": 34.95683643210663
+        }
+      }
+    },
+    {
+      "title": "8",
+      "driver": {
+        "firstName": "Logan",
+        "lastName": "Jimenez",
+        "phoneNumber": "+972 53-0000000",
+        "avatar": "avatar_8"
+      },
+      "picture": "construction_3",
+      "category": "construction",
+      "current_location": {
+        "latitude": 32.825922436559395,
+        "longitude": 34.97719603126918
+      },
+      "route": {
+        "departure_point": {
+          "latitude": 32.82040101552197,
+          "longitude": 34.98324771689175
+        },
+        "destination_point": {
+          "latitude": 32.83039017730285,
+          "longitude": 34.966475902583895
+        }
+      }
+    },
+    {
+      "title": "9",
+      "driver": {
+        "firstName": "Jeremy",
+        "lastName": "Robertson",
+        "phoneNumber": "+972 53-0000000",
+        "avatar": "avatar_9"
+      },
+      "picture": "passenger_3",
+      "category": "passenger",
+      "current_location": {
+        "latitude": 32.821636100004476,
+        "longitude": 34.96431458669409
+      },
+      "route": {
+        "departure_point": {
+          "latitude": 32.82185405426255,
+          "longitude": 34.96820495598034
+        },
+        "destination_point": {
+          "latitude": 32.82334339441212,
+          "longitude": 34.95960291723161
+        }
+      }
+    },
+    {
+      "title": "10",
+      "driver": {
+        "firstName": "Jeremy",
+        "lastName": "Robertson",
+        "phoneNumber": "+972 53-0000000",
+        "avatar": "avatar_10"
+      },
+      "picture": "construction_4",
+      "category": "construction",
+      "current_location": {
+        "latitude": 32.80165468422725,
+        "longitude": 34.992238793482876
+      },
+      "route": {
+        "departure_point": {
+          "latitude": 32.8107740330106,
+          "longitude": 34.985538712695764
+        },
+        "destination_point": {
+          "latitude": 32.79871158712303,
+          "longitude": 34.99755563150018
+        }
+      }
+    }
+  ]
+}
